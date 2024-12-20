@@ -1,0 +1,16 @@
+{
+  "name": "gdg",
+  "version": "1.0.0",
+  "description": "gdg",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swati",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.0",
+    "figlet": "^1.8.0",
+    "ora": "^8.1.1"
+  }
+}
